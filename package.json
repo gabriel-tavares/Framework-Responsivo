@@ -1,0 +1,20 @@
+{
+  "name": "stab",
+  "version": "0.2.5",
+  "description": "Modelo de framework responsivo.",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-install": "^0.6.0",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabriel-tavares/Framework-Responsivo"
+  },
+  "author": "Gabriel Tavares - gabrielmtavares@gmail.com",
+  "license": "ISC"
+}
